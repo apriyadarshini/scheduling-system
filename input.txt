@@ -1,0 +1,3 @@
+delivery0 = {'packages': ('product0', 'product1', 'product2'), 'destination': (5, 4)}
+delivery1 = {'packages': ('product3'), 'destination': (15, 9)}
+delivery2 = {'packages': ('product4'), 'destination': (6, 7)}
